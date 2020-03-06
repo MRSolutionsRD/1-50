@@ -1,0 +1,11 @@
+C:\Users\mriva\source\repos\1-50\1-50\bin\Debug\netcoreapp3.1\1-50.exe
+C:\Users\mriva\source\repos\1-50\1-50\bin\Debug\netcoreapp3.1\1-50.deps.json
+C:\Users\mriva\source\repos\1-50\1-50\bin\Debug\netcoreapp3.1\1-50.runtimeconfig.json
+C:\Users\mriva\source\repos\1-50\1-50\bin\Debug\netcoreapp3.1\1-50.runtimeconfig.dev.json
+C:\Users\mriva\source\repos\1-50\1-50\bin\Debug\netcoreapp3.1\1-50.dll
+C:\Users\mriva\source\repos\1-50\1-50\bin\Debug\netcoreapp3.1\1-50.pdb
+C:\Users\mriva\source\repos\1-50\1-50\obj\Debug\netcoreapp3.1\1-50.AssemblyInfoInputs.cache
+C:\Users\mriva\source\repos\1-50\1-50\obj\Debug\netcoreapp3.1\1-50.AssemblyInfo.cs
+C:\Users\mriva\source\repos\1-50\1-50\obj\Debug\netcoreapp3.1\1-50.dll
+C:\Users\mriva\source\repos\1-50\1-50\obj\Debug\netcoreapp3.1\1-50.pdb
+C:\Users\mriva\source\repos\1-50\1-50\obj\Debug\netcoreapp3.1\1-50.csprojAssemblyReference.cache
